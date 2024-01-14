@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 ./netflix-ui/node_modules/
 ./netflix-api/node_modules/
